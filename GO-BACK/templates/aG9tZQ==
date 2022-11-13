@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="static/style.css">
+	<title>aG9tZQ==</title>
+</head>
+<body>
+	<div class="Heading">
+		<h1>
+			MOOOM!  I AM BACK....... <p>SCHOOL IS OVER!!!!</p> 
+		</h1>
+	</div>
+	<div class="video">
+		<hr>		
+		<video width="800" height="800" controls autoplay loop>
+			<source src="static/Go to home.ogg" type="video/ogg">
+			Your browser does not support the video tag. <P hidden>HASHES ARE AWASOME(try heading)</P>
+		</video>
+	</div>
+</body>
+</html>
